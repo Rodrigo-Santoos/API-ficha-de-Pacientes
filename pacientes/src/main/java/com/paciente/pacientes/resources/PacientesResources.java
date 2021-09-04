@@ -34,7 +34,7 @@ public class PacientesResources {
 	}
 	
 	@PostMapping("/paciente")
-	public Pacientes salvarPacientes(@RequestBody Pacientes paciente){
+	public Pacientes salvaPaciente(@RequestBody Pacientes paciente){
 		return pacienteRepository.save(paciente);
 		
 	}
