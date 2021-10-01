@@ -25,3 +25,12 @@
 - Intellij IDE --> https://www.jetbrains.com/pt-br/idea/ <br>
 - Netbeans IDE--> https://netbeans.apache.org/download/index.html <br>
 - SpringToolSuite4 IDE --> https://spring.io/tools
+
+### 🔧 Execução
+
+Para acessar a aplicação :
+
+```
+Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos) 
+Abre com a sua IDE de preferencia e roda a aplicaçao
+```
