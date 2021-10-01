@@ -10,8 +10,8 @@
 
 ```
 - Ter o Java 11 ou superior instalado 
-- Ter o Mysql instalado (Caso nao queira usar o mysql tera que baixa a dependencia do seu banco de dados desejado -
-  e coloca no POM.xml) 
+- Ter o Mysql instalado (Caso nao queira usar o mysql tera que baixa a dependencia do seu -
+banco de dados desejado e coloca no POM.xml) 
 - IDE de sua preferência: Eclipse | Intellij IDE | Netbeans | SpringToolSuite4
 ```
 ## Links para download
@@ -32,5 +32,5 @@ Para acessar a aplicação :
 
 ```
 Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos) 
-Abre com a sua IDE de preferencia e roda a aplicaçao
 ```
+### 🏗️ construindo ainda...
