@@ -11,7 +11,7 @@
 ```
 - Ter o Java 11 ou superior instalado 
 - Ter o Mysql instalado (Caso nao queira usar o mysql tera que baixa a dependencia do seu -
-banco de dados desejado e coloca no POM.xml) 
+  banco de dados desejado e coloca no POM.xml) 
 - IDE de sua preferência: Eclipse | Intellij IDE | Netbeans | SpringToolSuite4
 ```
 ## Links para download
