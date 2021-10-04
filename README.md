@@ -33,4 +33,5 @@ Para acessar a aplicação :
 ```
 Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos) 
 ```
-### 🏗️ construindo ainda...
+### 🌐 Veja a API no link a baixo
+- link: https://apirest-pacientes.herokuapp.com/swagger-ui.html#!/pacientes45resources/listarPacientesUsingGET
