@@ -30,7 +30,8 @@
 
 Para acessar a aplicação :
 ```
-Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos) 
+Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos)
+Ou baixe zip (download Zip) e coloque no local de sua escolha
 ```
 
 ![git](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Capturar.PNG)
