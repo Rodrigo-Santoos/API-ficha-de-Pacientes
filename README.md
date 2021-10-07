@@ -29,11 +29,14 @@
 ### 🔧 Execução
 
 Para acessar a aplicação :
-
 ```
 Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos) 
 ```
-### 🌐 Veja a API no link a baixo
+
+![git](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Capturar.PNG)
+
+
+### 🌐 Veja a API funcionando no link em baixo:
 - <a href="https://apirest-pacientes.herokuapp.com/swagger-ui.html#/" target="_blank" rel="external">Clique Aqui</a>
 ```
 
