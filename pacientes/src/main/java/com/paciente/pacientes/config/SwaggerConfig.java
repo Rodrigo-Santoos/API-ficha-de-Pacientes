@@ -21,7 +21,7 @@ import java.util.ArrayList;
 public class SwaggerConfig {
 	
 	@Bean
-    public Docket productApi() {
+    public Docket pacientesApi() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
                 .apis(RequestHandlerSelectors.basePackage("com.paciente.pacientes")) //aqui voce coloca a estrutura do pacote principal
