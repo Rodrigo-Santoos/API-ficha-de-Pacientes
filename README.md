@@ -30,7 +30,7 @@
 
 Para acessar a aplicação :
 ```
-Faça o download ( clone ) do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos)
+Faça o download ou pode clona do repositório - [Rodrigo](https://github.com/Rodrigo-Santoos)
 Ou baixe zip (Download Zip) e coloque no local de sua escolha.
 ```
 
