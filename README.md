@@ -1,7 +1,7 @@
 <div align="center">
 <img src="imagens/logoJava.png"  width="150" >
 <img src="imagens/spring.png"  width="150" >
- <img src="imagens/apache-tomcat.jpg"  width="150" >
+<img src="imagens/apache-tomcat.jpg"  width="150" >
 </div>
 
 # API ficha de Pacientes do Hospital Santa Cruz
@@ -57,7 +57,7 @@ vai Run as e escolhe Java aplication.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/rodando.png)
 ```
-Mensagem que esta ok .
+Mensagem que esta ok
 ```
 * Se tiver feito tudo certinho voce vera uma mensagem mostrando que a apliçao iniciou sem erros.
 
@@ -66,9 +66,16 @@ Mensagem que esta ok .
 ```
 Aplicaçao no navegador
 ```
-* Depois que esta rudo ok vai no seu navegador e digite localhost:8080/swagger-ui.html e aperte enter, feito isso ira mostrar a tela do Swagger.
+* Depois que esta tudo ok vai no seu navegador e digite localhost:8080/swagger-ui.html e aperte enter, feito isso ira mostrar a tela do Swagger.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/swagger.png)
+
+```
+API no swagger
+```
+* Esta pronto para adicionar, deletar, atualizar. ver todos ou trazer apenas 1.
+
+![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/api.png)
 
 ```
 ## 🛠️ Aplicação construída com 
