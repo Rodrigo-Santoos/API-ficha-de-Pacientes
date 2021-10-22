@@ -44,14 +44,33 @@ e coloque no local de sua escolha.
 ```
 Abra o projeto com a IDE de preferência.
 ```
+* Aqui estao 3 exemplos.
+
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/IDE%C2%B4s.PNG)
 
 ```
-Abra o projeto com a IDE de preferência.
+Rodando a Aplicaçao
 ```
+* Para roda a aplicaçao clique na pasta pacientes e clique em src/main/java e clique de novo em
+com.paciente.pacientes, dentro dela tera PacientesApplication.java, com o botao direito do mouse 
+vai Run as e escolhe Java aplication.
+
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/rodando.png)
 ```
+Mensagem que esta ok .
+```
+* Se tiver feito tudo certinho voce vera uma mensagem mostrando que a apliçao iniciou sem erros.
 
+![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/iniciado.png)
+
+```
+Aplicaçao no navegador
+```
+* Depois que esta rudo ok vai no seu navegador e digite localhost:8080/swagger-ui.html e aperte enter, feito isso ira mostrar a tela do Swagger.
+
+![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/swagger.png)
+
+```
 ## 🛠️ Aplicação construída com 
 
 * [Windows:](https://spring.io/tools)
