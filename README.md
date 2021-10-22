@@ -11,7 +11,7 @@
 
 ```
 - Ter o Java 11 ou superior instalado
-- A DataBase se encontra na pasta Database, abre ela no seu MySql
+- A DataBase se encontra na pasta Database, abre o arquivo .sql no seu MySql
 - Ter o Mysql instalado (Caso nao queira usar o mysql tera que baixa a dependencia do seu -
   banco de dados desejado e coloca no POM.xml) 
 - IDE de sua preferência: Eclipse | Intellij IDE | Netbeans | SpringToolSuite4
