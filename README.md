@@ -10,7 +10,8 @@
 ### 📋 Pré-requisitos
 
 ```
-- Ter o Java 11 ou superior instalado 
+- Ter o Java 11 ou superior instalado
+- A DataBase se encontra na pasta Database, abre ela no seu MySql
 - Ter o Mysql instalado (Caso nao queira usar o mysql tera que baixa a dependencia do seu -
   banco de dados desejado e coloca no POM.xml) 
 - IDE de sua preferência: Eclipse | Intellij IDE | Netbeans | SpringToolSuite4
@@ -37,9 +38,6 @@ e coloque no local de sua escolha.
 
 ![git](https://github.com/Rodrigo-Santoos/Desafio-Academia-Capgemini-2-Parte/blob/main/Capturar.PNG)
 
-
-### 🌐 Veja a API funcionando no link em baixo:
-- <a href="https://apirest-pacientes.herokuapp.com/swagger-ui.html#/" target="_blank" rel="external">Clique Aqui</a>
 
 ```
 Abra o projeto com a IDE de preferência.
@@ -76,6 +74,9 @@ API no swagger
 * Esta pronto para adicionar, deletar, atualizar. ver todos ou trazer apenas 1.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/api.png)
+
+### 🌐 Veja a API funcionando no link em baixo:
+- <a href="https://apirest-pacientes.herokuapp.com/swagger-ui.html#/" target="_blank" rel="external">Clique Aqui</a>
 
 ```
 ## 🛠️ Aplicação construída com 
