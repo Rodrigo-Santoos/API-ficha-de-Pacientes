@@ -76,8 +76,12 @@ API com swagger
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/api.png)
 
 ### 🌐 Veja a API funcionando no link em baixo:
+```
+A Aplicaçao foi colocada no heroku com a database H2 (Banco de dados em Memoria) 
+pois eu tentei colocar em Mysql e nao hospedava de maneira alguma.
+Mas esta funcionando normalmente.
+```
 - <a href="https://apirest-pacientes.herokuapp.com/swagger-ui.html#/" target="_blank" rel="external">Clique Aqui</a>
-
 ```
 ## 🛠️ Aplicação construída com 
 
