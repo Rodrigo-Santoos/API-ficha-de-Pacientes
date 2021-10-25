@@ -55,21 +55,21 @@ vai Run as e escolhe Java aplication.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/rodando.png)
 ```
-Mensagem que esta ok
+Aplicaçao iniciada
 ```
 * Se tiver feito tudo certinho voce vera uma mensagem mostrando que a apliçao iniciou sem erros.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/iniciado.png)
 
 ```
-Aplicaçao no navegador
+Veja no navegador
 ```
 * Depois que esta tudo ok vai no seu navegador e digite localhost:8080/swagger-ui.html e aperte enter, feito isso ira mostrar a tela do Swagger.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/swagger.png)
 
 ```
-API no swagger
+API com swagger
 ```
 * Esta pronto para adicionar, deletar, atualizar. ver todos ou trazer apenas 1.
 
