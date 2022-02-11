@@ -79,7 +79,7 @@ API com swagger
 ```
 A Aplicaçao foi colocada no heroku com a database H2 (Banco de dados em Memoria) 
 pois eu tentei colocar em Mysql e nao hospedava de maneira alguma.
-Mas esta funcionando normalmente.
+Mas esta funcionando normalmente, só precisa adicionar os dados pois o banco H2 exclui toda vez que o servidor do Heroku reinicia.
 ```
 - <a href="https://apirest-pacientes.herokuapp.com/swagger-ui.html#/" target="_blank" rel="external">Clique Aqui</a>
 ```
