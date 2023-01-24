@@ -1,7 +1,6 @@
 <div align="center">
 <img src="imagens/logoJava.png"  width="150" >
 <img src="imagens/spring.png"  width="150" >
-<img src="imagens/apache-tomcat.jpg"  width="150" >
 </div>
 
 # API ficha de Pacientes do Hospital Santa Cruz
