@@ -63,7 +63,7 @@ Aplicaçao iniciada
 ```
 Veja no navegador
 ```
-* Depois que esta tudo ok vai no seu navegador e digite localhost:8080/swagger-ui.html e aperte enter, feito isso ira mostrar a tela do Swagger.
+* Depois que esta tudo ok vai no seu navegador e digite <b>localhost:8080/swagger-ui.html</b> e aperte enter, feito isso ira mostrar a tela do Swagger.
 
 ![IDE](https://github.com/Rodrigo-Santoos/API-ficha-de-Pacientes/blob/main/imagens/swagger.png)
 
