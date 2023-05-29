@@ -4,7 +4,7 @@
 </div>
 
 # API ficha de Pacientes do Hospital Santa Cruz
- Uma API com swagger em java que consuta lista de Pacientes de um hospital feito com Mysql no docker e Mysql Workbench
+ Uma API com swagger(v2.7.0) em java que consuta lista de Pacientes de um hospital feito com Mysql no docker e Mysql Workbench
  
 ### 📋 Pré-requisitos
 
